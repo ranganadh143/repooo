@@ -10,3 +10,8 @@ cat /proc/meminfo : used to get RAM information
 free : used to get RAM info in KB's
 free -m : used to get RAM info in MB's
 df -
+1432654
+25897
+14587
+8524
+9654
