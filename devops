@@ -1,0 +1,12 @@
+
+I HAKcat : it is a command which is used to read the data in a fi le
+cat /proc/cpuinfo : used to get cpu information
+/proc : folder which contains our processor details
+/cpuinfo : is a fi le which contains our cpu information
+(or)
+lscpu : used to get cpu info
+cat /proc/meminfo : used to get RAM information
+(or)
+free : used to get RAM info in KB's
+free -m : used to get RAM info in MB's
+df -
